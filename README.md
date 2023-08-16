@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kvsbarbosa
+- 👀 I’m interested in football, technology and fantasy movies
+- 🌱 I’m currently learning Java by University of Helsinki
+- 📫 How to reach me: kaiovsbarbosa@gmail.com
