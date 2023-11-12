@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Student me = new Student("Kaio Vinícius", 19, "pt_BR", "IFPE");
-        sayHello(me);
+        sayHello();
     }
 
     public static void sayHello() {
