@@ -38,6 +38,8 @@ public class Main {
 
 [![VoteHub](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=votehub)](https://github.com/kvsbarbosa/votehub)
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
