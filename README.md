@@ -32,13 +32,10 @@ public class Main {
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
 ## 🗂️ Highlight Projects
 
 [![VoteHub](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=votehub)](https://github.com/kvsbarbosa/votehub)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 
 
