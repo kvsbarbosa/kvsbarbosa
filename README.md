@@ -8,10 +8,6 @@ public class Main {
         Student me = new Student("Kaio Vinícius", 19, "pt_BR", "IFPE");
         sayHello();
     }
-
-    public static void sayHello() {
-        System.out.println("Hello! Thanks for stopping by. I hope you find what I'm working on interesting.");
-    }
 }
 ```
 
