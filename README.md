@@ -1,14 +1,11 @@
-# 🕶️
+
 
 
 ```
-public class Main {
+Hi there.
 
-    public static void main(String[] args) {
-        Student me = new Student("Kaio Vinícius", 19, "pt_BR", "IFPE");
-        sayHello();
-    }
-}
+I'm Kaio, a technology enthusiast passionate about software development and problem-solving.
+Currently, I'm focused on web development and automatization, working hard to enhance my skills and contribute to amazing projects.
 ```
 
 
