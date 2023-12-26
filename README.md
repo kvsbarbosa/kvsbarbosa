@@ -5,7 +5,7 @@
 Hi there.
 
 I'm Kaio, a technology enthusiast passionate about software development and problem-solving.
-Currently, I'm focused on web development and automatization, working hard to enhance my skills and contribute to amazing projects.
+Currently, I'm focused on web development and automatization, working hard to enhance my skills.
 ```
 
 
