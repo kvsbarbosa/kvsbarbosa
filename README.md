@@ -36,6 +36,7 @@ Currently, I'm focused on web development and task automation, working hard to e
 ## 🗂️ Highlight Projects
 
 [![VoteHub](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=votehub)](https://github.com/kvsbarbosa/votehub)
+[![Clients challenge](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=clients-challenge)](https://github.com/kvsbarbosa/clients-challenge)
 
 
 
