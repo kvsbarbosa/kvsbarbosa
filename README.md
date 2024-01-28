@@ -35,9 +35,11 @@ Currently, I'm focused on web development and task automation, working hard to e
 
 ## 🗂️ Highlight Projects
 
+
 [![VoteHub](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=votehub)](https://github.com/kvsbarbosa/votehub)
 [![FindYourTax](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=findYourTax)](https://github.com/kvsbarbosa/findYourTax)
 [![Clients challenge](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=clients-challenge)](https://github.com/kvsbarbosa/clients-challenge)
+[![Daily algorithm](https://github-readme-stats.vercel.app/api/pin/?username=kvsbarbosa&repo=daily-algorithm)](https://github.com/kvsbarbosa/daily-algorithm)
 
 
 
