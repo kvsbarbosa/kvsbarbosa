@@ -7,6 +7,6 @@ Student of **Systems Analysis and Development** at IFPE (Instituto Federal de Pe
 * Exploring Brazilian History, Mathematics and Oral Communication in spare time;
 * Open to collaborations in open-source projects.
 
-> “If it doesn't work the first time, call it version 1.0.”
+> “Don't lose your grip on the dreams of the past” - The Eye of the Tiger 
 
 
