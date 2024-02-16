@@ -1,4 +1,4 @@
-# Hi there 🤟
+# Hi there.
 Student of **Systems Analysis and Development** at IFPE (Instituto Federal de Pernambuco).
 
 [Here you can find my most relevant **projects**](https://github.com/kvsbarbosa/recruiter.md).
