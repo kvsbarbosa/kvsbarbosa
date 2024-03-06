@@ -7,6 +7,6 @@ Student of **Systems Analysis and Development** at IFPE (Instituto Federal de Pe
 * Exploring juvenile literature in spare time (⚡ HP actually);
 * Open to collaborations in any projects.
 
-> “Don't lose your grip on the dreams of the past” - The Eye of the Tiger 
+> “Stay golden, Ponyboy” - The Eye of the Tiger 
 
 
