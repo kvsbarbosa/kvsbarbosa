@@ -7,6 +7,6 @@ Extensionist at FACEPE, building an application for mobile devices.
 ## **About me:**
 * Mostly working with Java and Python
 * Exploring fantasy and sci-fi literature in my spare time (⚡ Harry Potter at moment!)
-* Daily tasks: gym and English classes
+* Going to the gym and attending English classes every day
 > “Nitwit! Blubber! Oddment! Tweak!”
 ― Albus Wulfric Percival Brian Dumbledore
