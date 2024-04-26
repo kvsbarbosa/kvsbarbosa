@@ -6,7 +6,7 @@ Extensionist at FACEPE, building an application for mobile devices.
 [Here you can find my most relevant **projects**](https://github.com/kvsbarbosa/recruiter.md).
 ## **About me:**
 * Mostly working with Java and Python
-* Exploring juvenile literature in spare time (⚡ HP actually)
+* Exploring fantasy and sci-fi literature in my spare time (⚡ Harry Potter at moment!)
 * Trying to go to the gym every day
 > “Nitwit! Blubber! Oddment! Tweak!”
 ― Albus Wulfric Percival Brian Dumbledore
