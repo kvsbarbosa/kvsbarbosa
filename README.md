@@ -1,11 +1,6 @@
 # Hi there.
 Student of Systems Analysis and Development at IFPE (Instituto Federal de Pernambuco).
 
-**Software Engineer Intern at IntuitiveCare.**
+**Software Engineer Intern at IntuitiveCare,** working with the stack: Java, Python, MySQL/PostgreSQL, AWS, Grafana.
 
-## **About me:**
-* Mostly working with Java and Python
-* Reading a lot of fantasy or sci-fi books lately
-* Going to the gym every day
-> “Nitwit! Blubber! Oddment! Tweak!”
-― Albus Wulfric Percival Brian Dumbledore
+
