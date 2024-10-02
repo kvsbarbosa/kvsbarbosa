@@ -1,6 +1,8 @@
-# 👋
-Estudante de Análise e Desenvolvimento de Sistemas no IFPE.
+# Hi there.
+Student of **Systems Analysis and Development** at IFPE (Instituto Federal de Pernambuco).
 
-**Estagiário em Engenharia de Software na IntuitiveCare**, trabalhando com a stack: Java, Python, MySQL/PostreSQL, AWS, Grafana.
+**Software Engineer Intern at IntuitiveCare.**
 
-
+## **About me:**
+* Mostly working with Java and Python
+* Reading a lot of fantasy and sci-fi books lately
